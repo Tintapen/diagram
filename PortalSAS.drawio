@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.2">
   <diagram name="Page-1" id="LgnwesUbZjLgIbyOoJeA">
-    <mxGraphModel dx="1493" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="CBKGdkRhBTzBrb7H6EpZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBKGdkRhBTzBrb7H6EpZ-9" target="CBKGdkRhBTzBrb7H6EpZ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-9" value="VM App (Portal SAS)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-9" value="VM App (Portal SAS) - Prod" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CBKGdkRhBTzBrb7H6EpZ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CBKGdkRhBTzBrb7H6EpZ-9" source="CBKGdkRhBTzBrb7H6EpZ-20" target="CBKGdkRhBTzBrb7H6EpZ-22">
@@ -45,7 +45,7 @@
         <mxCell id="CBKGdkRhBTzBrb7H6EpZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.548;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CBKGdkRhBTzBrb7H6EpZ-9" source="CBKGdkRhBTzBrb7H6EpZ-20" target="CBKGdkRhBTzBrb7H6EpZ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-10" value="VM Rekrutmen" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-10" value="VM Rekrutmen - Prod" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="240" height="200" as="geometry">
             <mxRectangle x="320" y="130" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -58,6 +58,42 @@
         </mxCell>
         <mxCell id="CBKGdkRhBTzBrb7H6EpZ-30" value="BE Rekrutmen" style="whiteSpace=wrap;html=1;" vertex="1" parent="CBKGdkRhBTzBrb7H6EpZ-10">
           <mxGeometry x="85" y="100" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-34" value="VM App - Staging" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="460" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CBKGdkRhBTzBrb7H6EpZ-34" source="CBKGdkRhBTzBrb7H6EpZ-37" target="CBKGdkRhBTzBrb7H6EpZ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CBKGdkRhBTzBrb7H6EpZ-34" source="CBKGdkRhBTzBrb7H6EpZ-37" target="CBKGdkRhBTzBrb7H6EpZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CBKGdkRhBTzBrb7H6EpZ-34" source="CBKGdkRhBTzBrb7H6EpZ-37" target="CBKGdkRhBTzBrb7H6EpZ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-37" value="Dashboard Compro, Fixsa, Reksa&amp;nbsp;&lt;div&gt;&amp;amp; Harmony&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CBKGdkRhBTzBrb7H6EpZ-34">
+          <mxGeometry x="60" y="30" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-38" value="BE Compro" style="whiteSpace=wrap;html=1;" vertex="1" parent="CBKGdkRhBTzBrb7H6EpZ-34">
+          <mxGeometry x="20" y="110" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-39" value="BE Fixsa" style="whiteSpace=wrap;html=1;" vertex="1" parent="CBKGdkRhBTzBrb7H6EpZ-34">
+          <mxGeometry x="100" y="110" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-40" value="BE Harmony" style="whiteSpace=wrap;html=1;" vertex="1" parent="CBKGdkRhBTzBrb7H6EpZ-34">
+          <mxGeometry x="180" y="110" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.548;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CBKGdkRhBTzBrb7H6EpZ-34" source="CBKGdkRhBTzBrb7H6EpZ-37" target="CBKGdkRhBTzBrb7H6EpZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-43" value="BE Rekrutmen" style="whiteSpace=wrap;html=1;" vertex="1" parent="CBKGdkRhBTzBrb7H6EpZ-34">
+          <mxGeometry x="260" y="110" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CBKGdkRhBTzBrb7H6EpZ-34" source="CBKGdkRhBTzBrb7H6EpZ-48" target="CBKGdkRhBTzBrb7H6EpZ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBKGdkRhBTzBrb7H6EpZ-48" value="Portal Peserta Rekrutmen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CBKGdkRhBTzBrb7H6EpZ-34">
+          <mxGeometry x="290" y="30" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
