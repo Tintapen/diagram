@@ -196,7 +196,7 @@
         <mxCell id="fEFpx00hatzRK4GJu2hC-28" value="Actions ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="fEFpx00hatzRK4GJu2hC-17" vertex="1">
           <mxGeometry x="110" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fEFpx00hatzRK4GJu2hC-29" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="fEFpx00hatzRK4GJu2hC-17" vertex="1">
+        <mxCell id="fEFpx00hatzRK4GJu2hC-29" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="fEFpx00hatzRK4GJu2hC-17" vertex="1">
           <mxGeometry x="105" y="650" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fEFpx00hatzRK4GJu2hC-30" value="Open Article" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="fEFpx00hatzRK4GJu2hC-17" vertex="1">
