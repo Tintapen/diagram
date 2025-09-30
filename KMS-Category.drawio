@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="666" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1189" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -54,11 +54,11 @@
         <mxCell id="X_uzLd1JDPzAY57dWKAX-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="zMHx1gX578l4r98D342h-0" vertex="1">
           <mxGeometry x="105" y="650" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X_uzLd1JDPzAY57dWKAX-13" value="Add Category -&amp;gt; Save" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="zMHx1gX578l4r98D342h-0" vertex="1">
-          <mxGeometry x="250" y="480" width="150" height="40" as="geometry" />
+        <mxCell id="X_uzLd1JDPzAY57dWKAX-13" value="Add New Category -&amp;gt; Save" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="zMHx1gX578l4r98D342h-0" vertex="1">
+          <mxGeometry x="250" y="480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X_uzLd1JDPzAY57dWKAX-30" value="Edit Category -&amp;gt; Save" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="zMHx1gX578l4r98D342h-0" vertex="1">
-          <mxGeometry x="250" y="535" width="150" height="40" as="geometry" />
+          <mxGeometry x="250" y="535" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X_uzLd1JDPzAY57dWKAX-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="zMHx1gX578l4r98D342h-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X_uzLd1JDPzAY57dWKAX-36" value="Delete Category -&amp;gt; Save" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="zMHx1gX578l4r98D342h-0" vertex="1">
-          <mxGeometry x="250" y="590" width="150" height="40" as="geometry" />
+          <mxGeometry x="250" y="590" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X_uzLd1JDPzAY57dWKAX-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="zMHx1gX578l4r98D342h-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
