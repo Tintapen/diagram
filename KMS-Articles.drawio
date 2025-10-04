@@ -37,7 +37,7 @@
         <mxCell id="X_uzLd1JDPzAY57dWKAX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zMHx1gX578l4r98D342h-0" source="zMHx1gX578l4r98D342h-13" target="X_uzLd1JDPzAY57dWKAX-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zMHx1gX578l4r98D342h-13" value="Home -&amp;gt; Document Menu" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="zMHx1gX578l4r98D342h-0" vertex="1">
+        <mxCell id="zMHx1gX578l4r98D342h-13" value="Home -&amp;gt; Articles Menu" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="zMHx1gX578l4r98D342h-0" vertex="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zMHx1gX578l4r98D342h-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zMHx1gX578l4r98D342h-0" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
@@ -184,7 +184,7 @@
         <mxCell id="fEFpx00hatzRK4GJu2hC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="fEFpx00hatzRK4GJu2hC-17" source="fEFpx00hatzRK4GJu2hC-24" target="fEFpx00hatzRK4GJu2hC-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fEFpx00hatzRK4GJu2hC-24" value="Home -&amp;gt; Document Menu" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="fEFpx00hatzRK4GJu2hC-17" vertex="1">
+        <mxCell id="fEFpx00hatzRK4GJu2hC-24" value="Home -&amp;gt; Articles Menu" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="fEFpx00hatzRK4GJu2hC-17" vertex="1">
           <mxGeometry x="15" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fEFpx00hatzRK4GJu2hC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="fEFpx00hatzRK4GJu2hC-17" source="fEFpx00hatzRK4GJu2hC-26" target="fEFpx00hatzRK4GJu2hC-22" edge="1">
