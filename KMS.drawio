@@ -51,8 +51,8 @@
         <mxCell id="KvHcU47rv7xYEL3rzJnX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KvHcU47rv7xYEL3rzJnX-13" source="KvHcU47rv7xYEL3rzJnX-41" target="KvHcU47rv7xYEL3rzJnX-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KvHcU47rv7xYEL3rzJnX-41" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Home - Viewer&lt;/span&gt;&lt;/div&gt;- New Article Notifications&lt;br&gt;- Dashboard Statistics&lt;br&gt;- Latest Viewed&lt;br&gt;- Articles (View/Search/Filter)" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" parent="KvHcU47rv7xYEL3rzJnX-13" vertex="1">
-          <mxGeometry x="60" y="450" width="180" height="90" as="geometry" />
+        <mxCell id="KvHcU47rv7xYEL3rzJnX-41" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Home - Viewer&lt;/span&gt;&lt;/div&gt;- New Article Notifications&lt;br&gt;-&amp;nbsp;Activity Summary&lt;br&gt;- Articles (View/Search/Filter)" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" parent="KvHcU47rv7xYEL3rzJnX-13" vertex="1">
+          <mxGeometry x="60" y="450" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KvHcU47rv7xYEL3rzJnX-54" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="KvHcU47rv7xYEL3rzJnX-13" vertex="1">
           <mxGeometry x="105" y="600" width="90" height="60" as="geometry" />
@@ -171,8 +171,8 @@
         <mxCell id="snpb0dGP6pKVzHkLgJxg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="snpb0dGP6pKVzHkLgJxg-12" source="snpb0dGP6pKVzHkLgJxg-19" target="snpb0dGP6pKVzHkLgJxg-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="snpb0dGP6pKVzHkLgJxg-19" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Home&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;- New Article Notifications&lt;br&gt;- Dashboard Statistics&lt;br&gt;- Latest Viewed&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" parent="snpb0dGP6pKVzHkLgJxg-12" vertex="1">
-          <mxGeometry x="72.5" y="290" width="155" height="70" as="geometry" />
+        <mxCell id="snpb0dGP6pKVzHkLgJxg-19" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Home - Viewer&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;- New Article Notifications&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;-&amp;nbsp;Activity Summary&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" parent="snpb0dGP6pKVzHkLgJxg-12" vertex="1">
+          <mxGeometry x="72.5" y="290" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="snpb0dGP6pKVzHkLgJxg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="snpb0dGP6pKVzHkLgJxg-12" source="snpb0dGP6pKVzHkLgJxg-21" target="snpb0dGP6pKVzHkLgJxg-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
